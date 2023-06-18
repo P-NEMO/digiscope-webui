@@ -9,7 +9,6 @@
 
 	import Footer from '$lib/landing/Footer.svelte';
 	import Header from '$lib/landing/Header.svelte';
-
 	import Sidebar from '$lib/landing/Sidebar.svelte';
 
 	const routes = [
@@ -25,7 +24,6 @@
 <!-- App Shell -->
 <AppShell>
 	<svelte:fragment slot="header"> <Header /> </svelte:fragment>
-	<svelte:fragment slot="pageHeader">Page Header</svelte:fragment>
 	<svelte:fragment slot="sidebarLeft"><Sidebar routes={routes} names={names}/></svelte:fragment>
 	<slot />
 	<svelte:fragment slot="footer"> <Footer /></svelte:fragment>

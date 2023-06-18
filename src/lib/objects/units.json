@@ -1,0 +1,19 @@
+{
+    'clouds':'%',
+    'visibility':'km',
+    'fog':'%',
+    'prep_prob':'%',
+    'precp_amount':'mm',
+    'relative_humidity':'%',
+    'pressure':'atm',
+    'ozone':'du',
+    'temp':'°C',
+    'dew_point':'°C',
+    'feels':'°C',
+    'wind_speed':'km/h',
+    'wind_dir':'°',
+    'SQM':'mag',
+    'brotle':'class',
+    'luminance':'mcd/m2',
+    'artifical':'μcd/m2'
+}

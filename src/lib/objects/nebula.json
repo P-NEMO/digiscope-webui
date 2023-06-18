@@ -1,0 +1,878 @@
+[
+    {
+      "label": "Abell 70",
+      "value": "abell 70 ",
+      "keywords": "planetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Ant Nebula",
+      "value": "ant nebula",
+      "keywords": "planetary, 13.8",
+      "meta": {}
+    },
+    {
+      "label": "Barnard 30",
+      "value": "barnard 30",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Barnard's Bubble Nebula",
+      "value": "barnard's bubble nebula",
+      "keywords": "diffuse, 15",
+      "meta": {}
+    },
+    {
+      "label": "Barnard's Loop",
+      "value": "barnard's loop",
+      "keywords": "emission, 5",
+      "meta": {}
+    },
+    {
+      "label": "Barnard's Merope Nebula",
+      "value": "barnard's merope nebula",
+      "keywords": "reflection, 13",
+      "meta": {}
+    },
+    {
+      "label": "Bat Nebula",
+      "value": "bat nebula",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Bean Nebula",
+      "value": "bean nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Blinking Planetary",
+      "value": "blinking planetary ",
+      "keywords": "planetary, 8.8",
+      "meta": {}
+    },
+    {
+      "label": "Blue Flash Nebula",
+      "value": "blue flash nebula ",
+      "keywords": "planetary, 11",
+      "meta": {}
+    },
+    {
+      "label": "Blue Planetary",
+      "value": "blue planetary",
+      "keywords": "planetary, 8.5",
+      "meta": {}
+    },
+    {
+      "label": "Blue Racquetball Nebula",
+      "value": "blue racquetball nebula",
+      "keywords": "planetary, 9",
+      "meta": {}
+    },
+    {
+      "label": "Blue Snowball Nebula",
+      "value": "blue snowball nebula ",
+      "keywords": "planetary, 8.6",
+      "meta": {}
+    },
+    {
+      "label": "Boomerang Nebula",
+      "value": "boomerang nebula ",
+      "keywords": "protoplanetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Bow-Tie Nebula",
+      "value": "bow-tie nebula ",
+      "keywords": "planetary, 11.4",
+      "meta": {}
+    },
+    {
+      "label": "Box Nebula",
+      "value": "box nebula ",
+      "keywords": "planetary, 11.5",
+      "meta": {}
+    },
+    {
+      "label": "Bubble Nebula",
+      "value": "bubble nebula",
+      "keywords": "diffuse, 10",
+      "meta": {}
+    },
+    {
+      "label": "Bug Nebula",
+      "value": "bug nebula",
+      "keywords": "planetary, 7.1",
+      "meta": {}
+    },
+    {
+      "label": "Butterfly Nebula",
+      "value": "butterfly nebula ",
+      "keywords": "planetary, 12",
+      "meta": {}
+    },
+    {
+      "label": "Calabash Nebula",
+      "value": "calabash nebula ",
+      "keywords": "protoplanetary, 9.5",
+      "meta": {}
+    },
+    {
+      "label": "California Nebula",
+      "value": "california nebula",
+      "keywords": "emission, 6",
+      "meta": {}
+    },
+    {
+      "label": "Carina Nebula",
+      "value": "carina nebula",
+      "keywords": "diffuse, 1",
+      "meta": {}
+    },
+    {
+      "label": "Cassiopeia A",
+      "value": "cassiopeia a ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Cat's Eye Nebula",
+      "value": "cat's eye nebula ",
+      "keywords": "planetary, 9.8",
+      "meta": {}
+    },
+    {
+      "label": "Cat's Paw Nebula",
+      "value": "cat's paw nebula",
+      "keywords": "diffuse, ",
+      "meta": {}
+    },
+    {
+      "label": "Cave Nebula",
+      "value": "cave nebula",
+      "keywords": "diffuse, 7.7",
+      "meta": {}
+    },
+    {
+      "label": "Cleopatra's Eye",
+      "value": "cleopatra's eye ",
+      "keywords": "planetary, 10.5",
+      "meta": {}
+    },
+    {
+      "label": "Coalsack Nebula",
+      "value": "coalsack nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Cocoon Nebula",
+      "value": "cocoon nebula",
+      "keywords": "reflection, 7.2",
+      "meta": {}
+    },
+    {
+      "label": "Cone Nebula",
+      "value": "cone nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Corona Australis Nebula",
+      "value": "corona australis nebula",
+      "keywords": "diffuse, 9.5",
+      "meta": {}
+    },
+    {
+      "label": "Cotton Candy Nebula",
+      "value": "cotton candy nebula ",
+      "keywords": "protoplanetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Crab Nebula",
+      "value": "crab nebula",
+      "keywords": "supernova remnant, 8.4",
+      "meta": {}
+    },
+    {
+      "label": "Crescent Nebula",
+      "value": "crescent nebula",
+      "keywords": "emission, 7.4",
+      "meta": {}
+    },
+    {
+      "label": "Cygnus Loop",
+      "value": "cygnus loop",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Dark Doodad Nebula",
+      "value": "dark doodad nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Dark Horse Nebula",
+      "value": "dark horse nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "De Mairans Nebula",
+      "value": "de mairans nebula",
+      "keywords": "emission, 9",
+      "meta": {}
+    },
+    {
+      "label": "Dolphin Nebula",
+      "value": "dolphin nebula",
+      "keywords": "planetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Double Helix Nebula",
+      "value": "double helix nebula",
+      "keywords": "diffuse, ",
+      "meta": {}
+    },
+    {
+      "label": "Dragon's Head Nebula",
+      "value": "dragon's head nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Dragonfish Nebula",
+      "value": "dragonfish nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Dumbbell Nebula",
+      "value": "dumbbell nebula ",
+      "keywords": "planetary, 7.5",
+      "meta": {}
+    },
+    {
+      "label": "Eagle Nebula",
+      "value": "eagle nebula",
+      "keywords": "emission, 6",
+      "meta": {}
+    },
+    {
+      "label": "Eastern Veil Nebula",
+      "value": "eastern veil nebula",
+      "keywords": "supernova remnant, 7",
+      "meta": {}
+    },
+    {
+      "label": "Egg Nebula",
+      "value": "egg nebula ",
+      "keywords": "protoplanetary, 14",
+      "meta": {}
+    },
+    {
+      "label": "Eight-burst Nebula",
+      "value": "eight-burst nebula",
+      "keywords": "planetary, 9.9",
+      "meta": {}
+    },
+    {
+      "label": "Elephant's Trunk Nebula",
+      "value": "elephant's trunk nebula",
+      "keywords": "diffuse, ",
+      "meta": {}
+    },
+    {
+      "label": "Engraved Hourglass Nebula",
+      "value": "engraved hourglass nebula ",
+      "keywords": "planetary, 13",
+      "meta": {}
+    },
+    {
+      "label": "Eskimo Nebula",
+      "value": "eskimo nebula ",
+      "keywords": "planetary, 10.1",
+      "meta": {}
+    },
+    {
+      "label": "Eye of Sauron Nebula",
+      "value": "eye of sauron nebula ",
+      "keywords": "planetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Fetus Nebula",
+      "value": "fetus nebula ",
+      "keywords": "planetary, 12",
+      "meta": {}
+    },
+    {
+      "label": "Fine Ring Nebula",
+      "value": "fine ring nebula",
+      "keywords": "planetary, 12.6",
+      "meta": {}
+    },
+    {
+      "label": "Fish Head Nebula",
+      "value": "fish head nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Flame Nebula",
+      "value": "flame nebula",
+      "keywords": "emission, 10",
+      "meta": {}
+    },
+    {
+      "label": "Flaming Star Nebula",
+      "value": "flaming star nebula",
+      "keywords": "reflection, 6",
+      "meta": {}
+    },
+    {
+      "label": "Flaming Tree Nebula",
+      "value": "flaming tree nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Fleming 1",
+      "value": "fleming 1 ",
+      "keywords": "planetary, 7.6",
+      "meta": {}
+    },
+    {
+      "label": "Fly Nebula",
+      "value": "fly nebula",
+      "keywords": "reflection, 10.1",
+      "meta": {}
+    },
+    {
+      "label": "Footprint Nebula",
+      "value": "footprint nebula ",
+      "keywords": "protoplanetary, 11.7",
+      "meta": {}
+    },
+    {
+      "label": "Fried Egg Nebula",
+      "value": "fried egg nebula",
+      "keywords": "protoplanetary, 12.4",
+      "meta": {}
+    },
+    {
+      "label": "Frosty Leo Nebula",
+      "value": "frosty leo nebula ",
+      "keywords": "protoplanetary, 11",
+      "meta": {}
+    },
+    {
+      "label": "Gabriela Mistral Nebula",
+      "value": "gabriela mistral nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Ghost Head Nebula",
+      "value": "ghost head nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Ghost of Jupiter",
+      "value": "ghost of jupiter ",
+      "keywords": "planetary, 8.6",
+      "meta": {}
+    },
+    {
+      "label": "Glowing Eye Nebula",
+      "value": "glowing eye nebula ",
+      "keywords": "planetary, 11.9",
+      "meta": {}
+    },
+    {
+      "label": "Gum Nebula",
+      "value": "gum nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Headphone Nebula",
+      "value": "headphone nebula ",
+      "keywords": "planetary, 14",
+      "meta": {}
+    },
+    {
+      "label": "Heart Nebula",
+      "value": "heart nebula",
+      "keywords": "diffuse, 18.3",
+      "meta": {}
+    },
+    {
+      "label": "Helix Nebula",
+      "value": "helix nebula ",
+      "keywords": "planetary, 7.6",
+      "meta": {}
+    },
+    {
+      "label": "Homunculus Nebula",
+      "value": "homunculus nebula",
+      "keywords": "reflection, 6.2",
+      "meta": {}
+    },
+    {
+      "label": "Horsehead Nebula",
+      "value": "horsehead nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Hubble's Variable Nebula",
+      "value": "hubble's variable nebula",
+      "keywords": "reflection, 9",
+      "meta": {}
+    },
+    {
+      "label": "Inkspot Nebula",
+      "value": "inkspot nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Iris Nebula",
+      "value": "iris nebula",
+      "keywords": "reflection, 6.8",
+      "meta": {}
+    },
+    {
+      "label": "Jellyfish Nebula",
+      "value": "jellyfish nebula",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Kepler's Supernova",
+      "value": "kepler's supernova ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Kesteven 79",
+      "value": "kesteven 79 ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Keyhole Nebula",
+      "value": "keyhole nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Kleinmann-Low Nebula",
+      "value": "kleinmann-low nebula",
+      "keywords": "diffuse, ",
+      "meta": {}
+    },
+    {
+      "label": "Lagoon Nebula",
+      "value": "lagoon nebula",
+      "keywords": "emission, 6",
+      "meta": {}
+    },
+    {
+      "label": "Lemon Slice Nebula",
+      "value": "lemon slice nebula ",
+      "keywords": "planetary, 12.3",
+      "meta": {}
+    },
+    {
+      "label": "Little Dumbbell Nebula",
+      "value": "little dumbbell nebula ",
+      "keywords": "planetary, 10.1",
+      "meta": {}
+    },
+    {
+      "label": "Little Gem Nebula",
+      "value": "little gem nebula ",
+      "keywords": "planetary, 9.3",
+      "meta": {}
+    },
+    {
+      "label": "Little Ghost Nebula",
+      "value": "little ghost nebula ",
+      "keywords": "planetary, 9.9",
+      "meta": {}
+    },
+    {
+      "label": "Lower's Nebula",
+      "value": "lower's nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Manatee Nebula",
+      "value": "manatee nebula ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "McNeil's Nebula",
+      "value": "mcneil's nebula",
+      "keywords": "reflection, 15.5",
+      "meta": {}
+    },
+    {
+      "label": "Medusa Nebula",
+      "value": "medusa nebula ",
+      "keywords": "planetary, 16",
+      "meta": {}
+    },
+    {
+      "label": "Merope Nebula",
+      "value": "merope nebula",
+      "keywords": "reflection, 13",
+      "meta": {}
+    },
+    {
+      "label": "Messier 78",
+      "value": "messier 78",
+      "keywords": "reflection, 8.3",
+      "meta": {}
+    },
+    {
+      "label": "Monkey Head Nebula",
+      "value": "monkey head nebula",
+      "keywords": "emission, 6.8",
+      "meta": {}
+    },
+    {
+      "label": "North America Nebula",
+      "value": "north america nebula",
+      "keywords": "emission, 4",
+      "meta": {}
+    },
+    {
+      "label": "Northern Trifid Nebula",
+      "value": "northern trifid nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Omega Nebula",
+      "value": "omega nebula",
+      "keywords": "emission, 6",
+      "meta": {}
+    },
+    {
+      "label": "Orion Complex",
+      "value": "orion complex",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Orion Nebula",
+      "value": "orion nebula",
+      "keywords": "diffuse, 4",
+      "meta": {}
+    },
+    {
+      "label": "Owl Nebula",
+      "value": "owl nebula ",
+      "keywords": "planetary, 10",
+      "meta": {}
+    },
+    {
+      "label": "Oyster Nebula",
+      "value": "oyster nebula ",
+      "keywords": "planetary, 13",
+      "meta": {}
+    },
+    {
+      "label": "Pacman Nebula",
+      "value": "pacman nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Pelican Nebula",
+      "value": "pelican nebula",
+      "keywords": "emission, 8",
+      "meta": {}
+    },
+    {
+      "label": "Pencil Nebula",
+      "value": "pencil nebula",
+      "keywords": "emission, 12",
+      "meta": {}
+    },
+    {
+      "label": "Phantom Streak Nebula",
+      "value": "phantom streak nebula ",
+      "keywords": "planetary, 11",
+      "meta": {}
+    },
+    {
+      "label": "Pipe Nebula",
+      "value": "pipe nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Pistol Nebula",
+      "value": "pistol nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Puppis A",
+      "value": "puppis a",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "R Coronae Australis Nebula",
+      "value": "r coronae australis nebula",
+      "keywords": "reflection, ",
+      "meta": {}
+    },
+    {
+      "label": "Red Rectangle Nebula",
+      "value": "red rectangle nebula ",
+      "keywords": "protoplanetary, 9",
+      "meta": {}
+    },
+    {
+      "label": "Red Spider Nebula",
+      "value": "red spider nebula ",
+      "keywords": "planetary, 12",
+      "meta": {}
+    },
+    {
+      "label": "Retina Nebula",
+      "value": "retina nebula ",
+      "keywords": "planetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Ring Nebula",
+      "value": "ring nebula ",
+      "keywords": "planetary, 9",
+      "meta": {}
+    },
+    {
+      "label": "Robin's Egg Nebula",
+      "value": "robin's egg nebula ",
+      "keywords": "planetary, 9.4",
+      "meta": {}
+    },
+    {
+      "label": "Rosette Nebula",
+      "value": "rosette nebula",
+      "keywords": "diffuse, 9",
+      "meta": {}
+    },
+    {
+      "label": "Running Chicken Nebula",
+      "value": "running chicken nebula",
+      "keywords": "diffuse, 4.5",
+      "meta": {}
+    },
+    {
+      "label": "Running Man Nebula",
+      "value": "running man nebula",
+      "keywords": "reflection, 7",
+      "meta": {}
+    },
+    {
+      "label": "Sadr Region",
+      "value": "sadr region",
+      "keywords": "emission, 2.2",
+      "meta": {}
+    },
+    {
+      "label": "Saturn Nebula",
+      "value": "saturn nebula ",
+      "keywords": "planetary, 8",
+      "meta": {}
+    },
+    {
+      "label": "Seagull Nebula",
+      "value": "seagull nebula",
+      "keywords": "emission, 15.2",
+      "meta": {}
+    },
+    {
+      "label": "Shark Nebula",
+      "value": "shark nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Skull Nebula",
+      "value": "skull nebula ",
+      "keywords": "planetary, 8",
+      "meta": {}
+    },
+    {
+      "label": "Snake Nebula",
+      "value": "snake nebula",
+      "keywords": "dark, ",
+      "meta": {}
+    },
+    {
+      "label": "Soap Bubble Nebula",
+      "value": "soap bubble nebula ",
+      "keywords": "planetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Soccer Ball Nebula",
+      "value": "soccer ball nebula ",
+      "keywords": "planetary, 18.4",
+      "meta": {}
+    },
+    {
+      "label": "Soul Nebula",
+      "value": "soul nebula",
+      "keywords": "emission, 18.3",
+      "meta": {}
+    },
+    {
+      "label": "Southern Crab Nebula",
+      "value": "southern crab nebula ",
+      "keywords": "planetary, 14.2",
+      "meta": {}
+    },
+    {
+      "label": "Southern Owl Nebula",
+      "value": "southern owl nebula ",
+      "keywords": "planetary, 17.4",
+      "meta": {}
+    },
+    {
+      "label": "Spaghetti Nebula",
+      "value": "spaghetti nebula ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Spare-Tyre Nebula",
+      "value": "spare-tyre nebula ",
+      "keywords": "planetary, 16.5",
+      "meta": {}
+    },
+    {
+      "label": "Spiral Planetary Nebula",
+      "value": "spiral planetary nebula ",
+      "keywords": "planetary, 9.5",
+      "meta": {}
+    },
+    {
+      "label": "Spirograph Nebula",
+      "value": "spirograph nebula ",
+      "keywords": "planetary, 9.6",
+      "meta": {}
+    },
+    {
+      "label": "Statue of Liberty Nebula",
+      "value": "statue of liberty nebula",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Stingray Nebula",
+      "value": "stingray nebula ",
+      "keywords": "planetary, 10.7",
+      "meta": {}
+    },
+    {
+      "label": "Tarantula Nebula",
+      "value": "tarantula nebula",
+      "keywords": "emission, 8",
+      "meta": {}
+    },
+    {
+      "label": "Thor's Helmet",
+      "value": "thor's helmet",
+      "keywords": "emission, ",
+      "meta": {}
+    },
+    {
+      "label": "Trifid Nebula",
+      "value": "trifid nebula",
+      "keywords": "reflection, 6.3",
+      "meta": {}
+    },
+    {
+      "label": "Turtle Nebula",
+      "value": "turtle nebula",
+      "keywords": "planetary, 10.5",
+      "meta": {}
+    },
+    {
+      "label": "Twin Jet Nebula",
+      "value": "twin jet nebula",
+      "keywords": "protoplanetary, 14.7",
+      "meta": {}
+    },
+    {
+      "label": "Tycho's Supernova",
+      "value": "tycho's supernova ",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Veil Nebula",
+      "value": "veil nebula",
+      "keywords": "supernova remnant, 7",
+      "meta": {}
+    },
+    {
+      "label": "Vela Junior",
+      "value": "vela junior",
+      "keywords": "supernova remnant, ",
+      "meta": {}
+    },
+    {
+      "label": "Vela SNR",
+      "value": "vela snr ",
+      "keywords": "supernova remnant, 12",
+      "meta": {}
+    },
+    {
+      "label": "War and Peace Nebula",
+      "value": "war and peace nebula",
+      "keywords": "diffuse, ",
+      "meta": {}
+    },
+    {
+      "label": "Water lily nebula",
+      "value": "water lily nebula ",
+      "keywords": "protoplanetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Westbrook Nebula",
+      "value": "westbrook nebula ",
+      "keywords": "protoplanetary, ",
+      "meta": {}
+    },
+    {
+      "label": "Western Veil Nebula",
+      "value": "western veil nebula",
+      "keywords": "supernova remnant, 7",
+      "meta": {}
+    },
+    {
+      "label": "Witch Head Nebula",
+      "value": "witch head nebula",
+      "keywords": "reflection, 13",
+      "meta": {}
+    }
+  ]
